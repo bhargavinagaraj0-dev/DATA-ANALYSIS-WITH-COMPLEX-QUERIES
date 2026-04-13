@@ -49,4 +49,18 @@ The task was performed using SQL Plus, which is a command-line tool provided by 
 # CONCLUSION:-
 This task enhances the ability to work with complex datasets and extract meaningful insights using advanced SQL techniques. It also improves problem-solving skills and query optimization, which are essential for real-world data analysis and decision-making processes.
 
+# OUTPUT:-
+
+<img width="318" height="88" alt="Image" src="https://github.com/user-attachments/assets/8f196de5-7f7f-46f7-b098-cf627b29b461" />
+
+<img width="254" height="77" alt="Image" src="https://github.com/user-attachments/assets/7e305696-4450-4846-880a-0bdb1460f241" />
+
+<img width="169" height="53" alt="Image" src="https://github.com/user-attachments/assets/c8a163a8-3a20-4200-bebc-acf40ca4bb7d" />
+
+<img width="216" height="86" alt="Image" src="https://github.com/user-attachments/assets/6f48582d-d910-4972-83a4-088f2710fab7" />
+
+<img width="303" height="89" alt="Image" src="https://github.com/user-attachments/assets/0d8a2e1f-0f7f-4671-904d-200ba50dc5a3" />
+
+<img width="248" height="97" alt="Image" src="https://github.com/user-attachments/assets/079761ee-9311-4569-bba9-da46d60bd19a" />
+
 
